@@ -1,0 +1,4 @@
+<?xml version="1.0" ?>
+<Info File="src/clear_all.m" GroupUUID="" Icon="" Name="clear_all" Type="StartUp" Visible="0">
+    <Extension Name="StartUpPrev" Value="HEAD"></Extension>
+</Info>

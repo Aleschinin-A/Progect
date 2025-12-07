@@ -1,0 +1,4 @@
+<?xml version="1.0" ?>
+<Info File="src/unload_workspace.m" GroupUUID="" Icon="" Name="unload_workspace" Type="Shutdown" Visible="0">
+    <Extension Name="ShutdownPrev" Value="a01be35c-f85a-475f-9ca8-81dc92069501"></Extension>
+</Info>
